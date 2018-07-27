@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: neofonie-businesshours_v1\n"
+"POT-Creation-Date: 2018-06-28 09:33+0200\n"
+"PO-Revision-Date: 2018-06-28 09:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: neofonie GmbH <jennifer.weniger@neofonie.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ../src\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Admin/Domain/Model/TradingHourDays.php:141
+msgid "Monday"
+msgstr "Montag"
+
+#: Admin/Domain/Model/TradingHourDays.php:142
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: Admin/Domain/Model/TradingHourDays.php:143
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: Admin/Domain/Model/TradingHourDays.php:144
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: Admin/Domain/Model/TradingHourDays.php:145
+msgid "Friday"
+msgstr "Freitag"
+
+#: Admin/Domain/Model/TradingHourDays.php:146
+msgid "Saturday"
+msgstr "Samstag"
+
+#: Admin/Domain/Model/TradingHourDays.php:147
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: Admin/MetaBoxes/SimpleLocation/MetaBox.php:42
+msgid "Location Information"
+msgstr "Standortinformationen"
+
+#: Admin/SubmenuPages/SimpleLocation/ShortcodeDescription.php:19
+#: Admin/SubmenuPages/SimpleLocation/ShortcodeDescription.php:20
+#: TemplateParts/SimpleLocation-Shortcodes.php:2
+msgid "Shortcodes description"
+msgstr "Shortcodes Beispiele"
+
+#: SubPlugins/SimpleLocation.php:82 SubPlugins/SimpleLocation.php:83
+#: SubPlugins/SimpleLocation.php:85
+msgid "Location"
+msgstr "Standort"
+
+#: SubPlugins/SimpleLocation.php:84
+msgid "Locations"
+msgstr "Standorte"
+
+#: SubPlugins/SimpleLocation.php:86
+msgid "Add New"
+msgstr "Hinzufügen"
+
+#: SubPlugins/SimpleLocation.php:87
+msgid "Add New Location"
+msgstr "Neuen Standort hinzufügen"
+
+#: SubPlugins/SimpleLocation.php:88
+msgid "New Location"
+msgstr "Neuer Standort"
+
+#: SubPlugins/SimpleLocation.php:89
+msgid "Edit Location"
+msgstr "Standort bearbeiten"
+
+#: SubPlugins/SimpleLocation.php:90
+msgid "View Location"
+msgstr "Standort ansehen"
+
+#: SubPlugins/SimpleLocation.php:91
+#: TemplateParts/SimpleLocation-ModuleForm.php:11
+#: TemplateParts/SimpleLocation-ModuleForm.php:50
+#: TemplateParts/SimpleLocation-WidgetForm.php:5
+#: TemplateParts/SimpleLocation-WidgetForm.php:31
+msgid "All Locations"
+msgstr "Alle Standorte"
+
+#: SubPlugins/SimpleLocation.php:92
+msgid "Search Locations"
+msgstr "Standorte durchsuchen"
+
+#: SubPlugins/SimpleLocation.php:93
+msgid "Parent Location:"
+msgstr "Übergeordneter Standort"
+
+#: SubPlugins/SimpleLocation.php:94
+msgid "No Locations found."
+msgstr "Es konnten keine Standorte gefunden werden."
+
+#: SubPlugins/SimpleLocation.php:95
+msgid "No Locations found in Trash."
+msgstr "Es konnten im Papierkorb keine Standorte gefunden werden."
+
+#: TemplateParts/SimpleLocation-LocationList.php:34
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:15
+msgid "Phone"
+msgstr "Telefon"
+
+#: TemplateParts/SimpleLocation-LocationList.php:38
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:19
+msgid "Email"
+msgstr "E-Mail"
+
+#: TemplateParts/SimpleLocation-LocationList.php:42
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:53
+msgid "Public transport"
+msgstr "ÖPNV"
+
+#: TemplateParts/SimpleLocation-LocationList.php:45
+msgid "Location at google place"
+msgstr "Nest bei Google Maps"
+
+#: TemplateParts/SimpleLocation-LocationList.php:51
+#: TemplateParts/SimpleLocation-LocationListCompact.php:32
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:68
+msgid "Business Hours"
+msgstr "Öffnungszeiten"
+
+#: TemplateParts/SimpleLocation-LocationList.php:55
+#: TemplateParts/SimpleLocation-LocationListCompact.php:36
+msgid "deafult opening time"
+msgstr "Täglich"
+
+#: TemplateParts/SimpleLocation-LocationList.php:56
+#: TemplateParts/SimpleLocation-LocationList.php:66
+#: TemplateParts/SimpleLocation-LocationListCompact.php:37
+#: TemplateParts/SimpleLocation-LocationListCompact.php:42
+msgid "from "
+msgstr "von "
+
+#: TemplateParts/SimpleLocation-LocationList.php:56
+#: TemplateParts/SimpleLocation-LocationList.php:66
+#: TemplateParts/SimpleLocation-LocationListCompact.php:37
+#: TemplateParts/SimpleLocation-LocationListCompact.php:42
+msgid " o'clock"
+msgstr " Uhr"
+
+#: TemplateParts/SimpleLocation-LocationList.php:58
+#: TemplateParts/SimpleLocation-LocationList.php:69
+#: TemplateParts/SimpleLocation-LocationListCompact.php:50
+msgid "open"
+msgstr "Jetzt geöffnet"
+
+#: TemplateParts/SimpleLocation-LocationList.php:60
+#: TemplateParts/SimpleLocation-LocationList.php:71
+#: TemplateParts/SimpleLocation-LocationListCompact.php:52
+msgid "close"
+msgstr "Jetzt geschlossen"
+
+#: TemplateParts/SimpleLocation-LocationList.php:83
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:61
+msgid "Offer"
+msgstr "Angebot"
+
+#: TemplateParts/SimpleLocation-LocationListCompact.php:41
+msgid "today"
+msgstr "Heute"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:1
+msgid "Enter your information for the current location."
+msgstr "Bitte geben Sie hier Ihre Standortinformationen ein."
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:9
+msgid "Contact data"
+msgstr "Kontaktdaten"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:11
+msgid "Area Code like 49 for germany"
+msgstr "Landvorwahl"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:24
+msgid "Address"
+msgstr "Adressdaten"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:26
+msgid "Street"
+msgstr "Straße"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:30
+msgid "House Number"
+msgstr "Hausnummer"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:34
+msgid "Zip Code"
+msgstr "Postleitzahl"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:38
+msgid "City"
+msgstr "Ort"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:42
+msgid "Country"
+msgstr "Land"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:47
+msgid "Additional informations"
+msgstr "Zusatzinformationen"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:49
+msgid "Hint"
+msgstr "Hinweis"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:57
+msgid "Google place"
+msgstr "Link zu Google"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:69
+msgid "Please use the following business hours format: 09:00 - 19:45"
+msgstr "Bitte geben Sie die Öffnungszeiten im folgenden Format an: 09:00 - 19:45"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:85
+msgid "Closing settings"
+msgstr "Sonderschließzeiten"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:87
+msgid "Is close"
+msgstr "Ist geschlossen"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:90
+msgid "Please use the following days format: 24.12, 25.12, 26.12"
+msgstr "Bitte nutzen Sie das folgende Format: 24.12, 25.12, 26.12"
+
+#: TemplateParts/SimpleLocation-MetaBoxForm.php:92
+msgid "Holidays"
+msgstr "Geschlossen an folgenden Tagen"
+
+#: TemplateParts/SimpleLocation-MetaContent.php:21
+msgid "Location Trading Hours"
+msgstr "Standortöffnungszeiten"
+
+#: TemplateParts/SimpleLocation-ModuleForm.php:3
+msgid "Neo Location"
+msgstr "Standort"
+
+#: TemplateParts/SimpleLocation-ModuleForm.php:4
+#: TemplateParts/SimpleLocation-WidgetForm.php:1
+msgid "Select your options below"
+msgstr "Bitte wählen Sie die entsprechenden Optionen aus"
+
+#: TemplateParts/SimpleLocation-ModuleForm.php:8
+#: TemplateParts/SimpleLocation-WidgetForm.php:3
+msgid "Location to display"
+msgstr "Anzuzeigender Standort"
+
+#: TemplateParts/SimpleLocation-ModuleForm.php:28
+#: TemplateParts/SimpleLocation-WidgetForm.php:20
+msgid "Display compact items"
+msgstr "Zeige nur die wichtigsten Informationen an"
+
+#: TemplateParts/SimpleLocation-ModuleForm.php:36
+#: TemplateParts/SimpleLocation-WidgetForm.php:24
+msgid "Display horizontal list"
+msgstr "Zeige die horizontale Liste"
+
+#: TemplateParts/SimpleLocation-ModuleForm.php:44
+#: TemplateParts/SimpleLocation-WidgetForm.php:28
+msgid "If you want to display multiple locations select how many below"
+msgstr "Wenn Sie mehrere Standorte anzeigen wollen, wählen Sie bitte wieviele aus."
+
+#: TemplateParts/SimpleLocation-ModuleForm.php:46
+#: TemplateParts/SimpleLocation-WidgetForm.php:29
+msgid "Number of Locations"
+msgstr "Anzahl der Standorte"
+
+#: TemplateParts/SimpleLocation-ModuleForm.php:61
+#: TemplateParts/SimpleLocation-WidgetForm.php:41
+msgid "Want to edit your locations?"
+msgstr "Möchten Sie Ihre Standorte bearbeiten?"
+
+#: TemplateParts/SimpleLocation-ModuleForm.php:64
+#: TemplateParts/SimpleLocation-WidgetForm.php:43
+msgid "Go to locations"
+msgstr "Zu den Standorten"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:6
+msgid "List Displays"
+msgstr "Listendarstellungen"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:8
+msgid "Default list (vertical) with full data"
+msgstr "Standardliste (vertikal) mit allen Daten"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:12
+msgid "List (horizontal) with full data"
+msgstr "Liste (horizontal) mit allen Daten"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:16
+msgid "Compact list (vertical)"
+msgstr "Komprimierte Liste (vertikal)"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:20
+msgid "Compact list (horizontal)"
+msgstr "Komprimierte Liste (horizontal)"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:23
+msgid "List settings"
+msgstr "Listeneinstellungen"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:24
+msgid "Here are some usefull list settings you can additional use."
+msgstr "Hier können Sie weitere nützliche Listeneinstellungen finden."
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:26
+msgid "List with x locations"
+msgstr "Liste mit X Standorten"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:30
+msgid "List ordered by ... (defaulft is ID)"
+msgstr "Sortierte Liste anhand von ... (Standard ist ID)"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:34
+msgid "List order (DESC or ASC, defaulft is ASC)"
+msgstr "Listenordnung (DESC oder ASC, Standard ist ASC)"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:37
+msgid "Click here to see all orderby options"
+msgstr "Klicken Sie hier um alle Sortierungsmöglichkeiten zu sehen"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:38
+msgid "Single Location"
+msgstr "Einzelner Standort"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:40
+msgid "Single Location by id (post->ID)"
+msgstr "Ein Standort anhand der ID (post->ID)"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:44
+msgid "Single Location by name (post_title)"
+msgstr "Ein Standort anhand des Namens (post_title)"
+
+#: TemplateParts/SimpleLocation-Shortcodes.php:48
+msgid "Compact single Location by name (post_title)"
+msgstr "Komprimierter Standort anhand des Namens (post_title)"
+
+#: modules/neo-businesshours/neo-businesshours.php:9
+msgid "Neo Businesshours"
+msgstr "Öffnungszeiten"
+
+#: modules/neo-businesshours/neo-businesshours.php:10
+msgid "A module to show the opening hours by location"
+msgstr "Ein Module welches Ihnen die Öffnungszeiten pro Standort anzeigt"
+
+#: modules/neo-businesshours/neo-businesshours.php:12
+msgid "Content Modules"
+msgstr "Inhalts Module"
+
+#: modules/neo-businesshours/neo-businesshours.php:25
+msgid "Basics"
+msgstr "Standard"
+
+#~ msgid "Opening settings"
+#~ msgstr "Öffnungszeiten Einstellungen"
+
+#~ msgid "Please use the following business hours: format 09:00 - 19:45"
+#~ msgstr "Bitte geben Sie die Öffnungszeiten im folgenden Format an: 09:00 - 19:45"
+
+#~ msgid "Öffnungszeiten im Format 09:00 - 19:45"
+#~ msgstr "Öffnungszeiten im Format 09:00 - 19:45"

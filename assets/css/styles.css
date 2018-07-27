@@ -1,0 +1,42 @@
+.neo-businesshours_list {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.neo-businesshours_list .neo-businesshours_item {
+    margin: 0 5px 30px;
+    width: 100%;
+}
+
+.neo-businesshours_list.neo-businesshours_list--row .neo-businesshours_item {
+    display: inline-block;
+}
+
+.neo-businesshours_item.neo-businesshours_item--compact {
+    width: 200px;
+}
+
+.neo-businesshours_item .neo-businesshours_item_label:after {
+    content: ": "
+}
+
+.neo-businesshours_item .neo-businesshours_item_label.neo-businesshours_item_label--days:after {
+    content: " "
+}
+
+.neo-businesshours_item_state {
+    margin-left: 20px;
+}
+
+.neo-businesshours_item_state--open {
+    color: limegreen;
+}
+
+.neo-businesshours_item_state--close {
+    color: red;
+}
+
+.neo-businesshours_item_content--business-hours,
+.neo-businesshours_item_content--additional-informations {
+    margin-top: 20px;
+}

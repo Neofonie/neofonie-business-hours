@@ -1,0 +1,61 @@
+.neo-businesshours_settings {
+    display: flex;
+    display: -ms-flexbox;
+    justify-content: space-around;
+}
+
+.neo-businesshours_settings.neo-businesshours_settings--shortcodes {
+    padding: 20px;
+}
+
+.neo-businesshours_settings .neo-businesshours_settings-block {
+    margin: 0px 20px;
+}
+
+.neo-businesshours_field-container {
+    width: 100%;
+}
+
+.neo-businesshours_field {
+    padding: 5px 0px;
+    display: table;
+}
+
+.neo-businesshours_field label {
+    display: block;
+    width: 150px;
+    float: left;
+    font-weight: bold;
+}
+
+.neo-businesshours_field label:after {
+    content: ": "
+}
+
+.neo-businesshours_settings.neo-businesshours_settings--shortcodes .neo-businesshours_field {
+    display: block;
+}
+
+.neo-businesshours_settings.neo-businesshours_settings--shortcodes .neo-businesshours_field label {
+    width: 30%;
+}
+
+.neo-businesshours_settings.neo-businesshours_settings--shortcodes .neo-businesshours_field input {
+    width: 60%;
+}
+
+@media (max-width: 1024px) {
+    .neo-businesshours_settings {
+        display: block;
+    }
+}
+
+@media (max-width: 576px) {
+    .neo-businesshours_settings .neo-businesshours_settings-block {
+        margin: inherit;
+    }
+    .neo-businesshours_settings.neo-businesshours_settings--shortcodes .neo-businesshours_field label,
+    .neo-businesshours_settings.neo-businesshours_settings--shortcodes .neo-businesshours_field input {
+        width: 100%
+    }
+}
